@@ -1,0 +1,39 @@
+
+.anchor-pane-left {
+    -fx-background-image: url("../image/imageback.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+     -fx-background-repeat: no-repeat;
+}
+
+.anchor-pane-right{
+    -fx-background-image : url("../image/backwhite.jpg");
+}
+
+.bouton-confirmer{
+    -fx-background-color: #5196FE;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.bouton-confirmer:hover{
+    -fx-font-size: 18px;
+    -fx-background-color: #0819b3;
+}
+
+.anchorPaneSite{
+    -fx-background-image: url("../image/newblue.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.siteBtn{
+    -fx-background-color: #cac8ca;
+}
+
+.siteBtn:hover{
+    -fx-background-color: #9b7c91;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
